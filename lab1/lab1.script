@@ -1,0 +1,17 @@
+命令稿啟動於 2017年03月13日 (週一) 11時15分17秒
+]0;yuting@yuting-VirtualBox: ~[01;32myuting@yuting-VirtualBox[00m:[01;34m~[00m$ whoami; pwd
+yuting
+/home/yuting
+]0;yuting@yuting-VirtualBox: ~[01;32myuting@yuting-VirtualBox[00m:[01;34m~[00m$ git config -|
+> git clone https://github.com/qweszxc6304/lab1.git
+error: key does not contain a section: -
+Cloning into 'lab1'...
+remote: Counting objects: 18, done.[K
+remote: Compressing objects:   6% (1/15)   [Kremote: Compressing objects:  13% (2/15)   [Kremote: Compressing objects:  20% (3/15)   [Kremote: Compressing objects:  26% (4/15)   [Kremote: Compressing objects:  33% (5/15)   [Kremote: Compressing objects:  40% (6/15)   [Kremote: Compressing objects:  46% (7/15)   [Kremote: Compressing objects:  53% (8/15)   [Kremote: Compressing objects:  60% (9/15)   [Kremote: Compressing objects:  66% (10/15)   [Kremote: Compressing objects:  73% (11/15)   [Kremote: Compressing objects:  80% (12/15)   [Kremote: Compressing objects:  86% (13/15)   [Kremote: Compressing objects:  93% (14/15)   [Kremote: Compressing objects: 100% (15/15)   [Kremote: Compressing objects: 100% (15/15), done.[K
+remote: Total 18 (delta 5), reused 11 (delta 1), pack-reused 0[K
+Unpacking objects:   5% (1/18)   Unpacking objects:  11% (2/18)   Unpacking objects:  16% (3/18)   Unpacking objects:  22% (4/18)   Unpacking objects:  27% (5/18)   Unpacking objects:  33% (6/18)   Unpacking objects:  38% (7/18)   Unpacking objects:  44% (8/18)   Unpacking objects:  50% (9/18)   Unpacking objects:  55% (10/18)   Unpacking objects:  61% (11/18)   Unpacking objects:  66% (12/18)   Unpacking objects:  72% (13/18)   Unpacking objects:  77% (14/18)   Unpacking objects:  83% (15/18)   Unpacking objects:  88% (16/18)   Unpacking objects:  94% (17/18)   Unpacking objects: 100% (18/18)   Unpacking objects: 100% (18/18), done.
+Checking connectivity... done.
+]0;yuting@yuting-VirtualBox: ~[01;32myuting@yuting-VirtualBox[00m:[01;34m~[00m$ exit
+
+命令稿已於 2017年03月13日 (週一) 11時16分24秒
+ 完成
